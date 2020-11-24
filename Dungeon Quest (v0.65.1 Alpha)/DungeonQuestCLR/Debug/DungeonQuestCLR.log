@@ -1,0 +1,8 @@
+﻿  bossFight1.cpp
+  game.cpp
+  gameStart.cpp
+  level1.cpp
+  level2.cpp
+  Создание кода...
+  bossFight1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  DungeonQuestCLR.vcxproj -> D:\Stuff\source\repos\DungeonQuestCLR\Debug\DungeonQuestCLR.exe
