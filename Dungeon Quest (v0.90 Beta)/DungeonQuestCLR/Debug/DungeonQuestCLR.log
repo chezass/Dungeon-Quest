@@ -1,0 +1,35 @@
+﻿  bossFight1.cpp
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\level3.h(402,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(266,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(327,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(380,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(407,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  game.cpp
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\level3.h(402,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(266,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(327,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(380,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(407,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  gameStart.cpp
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\level3.h(402,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(266,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(327,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(380,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(407,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  level1.cpp
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\level3.h(402,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(266,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(327,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(380,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(407,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  level2.cpp
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\level3.h(402,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(266,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(327,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(380,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\bossFight1.h(407,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  level3.cpp
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\level3.h(402,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  bossFight1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  DungeonQuestCLR.vcxproj -> D:\Stuff\source\repos\DungeonQuestCLR\Debug\DungeonQuestCLR.exe

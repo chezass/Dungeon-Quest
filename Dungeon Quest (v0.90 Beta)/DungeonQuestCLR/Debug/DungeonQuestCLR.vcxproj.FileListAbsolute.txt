@@ -1,0 +1,8 @@
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\Debug\DungeonQuestCLR.vcxprojAssemblyReference.cache
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\Debug\DungeonQuestCLR.game.resources
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\Debug\DungeonQuestCLR.vcxproj.GenerateResource.cache
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\Debug\DungeonQuestCLR.gameStart.resources
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\Debug\DungeonQuestCLR.level1.resources
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\Debug\DungeonQuestCLR.level2.resources
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\Debug\DungeonQuestCLR.bossFight1.resources
+D:\Stuff\source\repos\DungeonQuestCLR\DungeonQuestCLR\Debug\DungeonQuestCLR.level3.resources
